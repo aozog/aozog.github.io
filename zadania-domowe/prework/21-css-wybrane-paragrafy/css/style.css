@@ -1,0 +1,13 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.team {
+   background-color: blue;
+}
+
+.half {
+    opacity: 0.4;
+}

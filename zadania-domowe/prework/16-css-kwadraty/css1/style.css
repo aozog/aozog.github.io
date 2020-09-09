@@ -1,0 +1,16 @@
+html {
+    background-color: #808080;
+}
+
+
+h1 {
+    margin-left: 2mm;
+    color: white;
+}
+
+div {
+    margin-left: 1em;
+    width: 7em;
+    height: 7em;
+    background-color: #fea500;
+}

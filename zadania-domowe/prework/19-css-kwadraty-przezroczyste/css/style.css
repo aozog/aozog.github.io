@@ -1,0 +1,28 @@
+html {
+    background-color: #f5f5dd;
+}
+
+
+
+div {
+    margin: 0 auto;
+    width: 7em;
+    height: 7em;
+    
+}
+
+#pierwszy{
+    background: rgba(0,0,0,1);
+}
+
+#drugi{
+    background: rgba(0,0,0,0.7);
+}
+
+#trzeci{
+    background: rgba(0,0,0,0.4);
+}
+
+#czwarty{
+    background: rgba(0,0,0,0.2);
+}

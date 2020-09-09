@@ -1,0 +1,12 @@
+p {
+    color: aquamarine;
+}
+
+
+h1 , h3 {
+background-color: chartreuse;
+}
+
+h1 + h3 {
+    color: yellow;
+}

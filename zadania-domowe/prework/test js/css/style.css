@@ -1,0 +1,13 @@
+body {
+    background-color: darkgoldenrod;
+}
+
+button {
+    background-color: grey;
+    font-weight: bold;
+}
+
+
+#name, #surname, #phone {
+    color: darkred;
+}
