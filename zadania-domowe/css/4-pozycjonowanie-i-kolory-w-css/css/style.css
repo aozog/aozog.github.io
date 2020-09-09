@@ -1,0 +1,149 @@
+.zewnetrzny {
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 5%;
+  } 
+
+
+  .kwadrat {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border: 2px solid white;
+  }
+
+
+  .kolo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    margin-top: -40px;
+    left: 50%;
+    margin-left: -40px;
+    border: 1px solid black;
+  }
+
+
+
+
+  .czerwony {
+      background-color: red;
+      top: 0;
+  }
+
+  .rozowe {
+      background-color: pink;
+    }
+
+
+
+  .niebieski {
+      background-color: blue;
+      left: 50%;
+      margin-left: -75px;
+      top: 0;
+  }
+  
+  .szare {
+      background-color: grey;
+  }
+
+
+
+
+  .zielony {
+      background-color: green;
+      right: 0;
+  }
+
+  .fioletowe {
+      background-color: purple;
+  }
+
+
+
+
+ .zolty {
+      background-color: yellow;
+      bottom: 50%;
+      margin-bottom: -75px;
+  }
+  
+  .zielone {
+      background-color: green;
+  }
+
+
+
+.czarny {
+      background-color: black;
+      bottom: 50%;
+      margin-bottom: -75px;
+      left: 50%;
+      margin-left: -75px;
+  }
+
+ .czerwone {
+      background-color: red;
+  }
+
+
+
+
+  .pomaranczowy {
+      background-color: orange;
+      right: 0;
+      bottom: 50%;
+      margin-bottom: -75px;
+  } 
+
+  .niebieskie {
+      background-color: blue;
+  }
+
+
+
+
+  .fioletowy {
+      background-color: purple;
+      bottom: 0;
+  }
+
+ .pomaranczowe {
+      background-color: orange;
+  }
+
+
+
+  
+
+.szary {
+      background-color: grey;
+      bottom: 0;
+      left: 50%;
+      margin-left: -75px;
+  }
+
+.zolte {
+    background-color: yellow;
+}
+
+
+
+
+.rozowy {
+      background-color: pink;
+      bottom: 0;
+      right: 0;
+  }
+
+  .czarne {
+      background-color: black;
+  }
+
+ 

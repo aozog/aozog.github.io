@@ -1,0 +1,26 @@
+.zewnetrzny {
+    width: 400px;
+    height: 400px;
+    background-color:#a6a9b6;
+    border: 10px solid #666360;
+    position: relative;
+  } 
+  
+  .wewnetrzny {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+  }
+  
+  .pomaranczowy{
+    background-color: #ff912e;
+    bottom: 0;
+  }
+  
+  
+  .szary{
+    background-color: #e4e4e4;
+    right: 0;
+  }
+  
+  

@@ -1,0 +1,108 @@
+
+#box {
+    position: relative;
+    width: 500px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.div {
+    width: 500px;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    position: absolute;
+    padding-top: 50px;
+}
+
+@keyframes countdown {
+    0% {
+         transform: none;
+         }
+              100% {
+                      transform: translateY(180px);
+                          }
+}
+
+
+
+
+
+.ten {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+}
+
+.nine {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+}
+
+.eight {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+}
+
+.seven {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 3s;
+}
+
+.six {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 4s;
+}
+
+.five {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 5s;
+}
+
+.four {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 6s;
+}
+
+.tree {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 7s;
+}
+
+.two {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 8s;
+}
+
+.one {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 9s;
+}
+
+.ilove {
+    animation-name: countdown;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: 10s;
+}
+
