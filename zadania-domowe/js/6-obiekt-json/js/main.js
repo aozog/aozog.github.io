@@ -11,5 +11,5 @@ console.log(jsonPracownicy.pracownicy);
 
 
 jsonPracownicy.pracownicy.forEach(function (pracownik, index) {
-    console.log(pracownik.firstName, pracownik.lastName, index);
+    console.log(`${index} ${pracownik.firstName} ${pracownik.lastName}`);
 });
