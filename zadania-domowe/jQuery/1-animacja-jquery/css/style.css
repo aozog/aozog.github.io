@@ -1,0 +1,13 @@
+button#button-animate {
+    margin-bottom: 30px;
+}
+
+
+div#square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    /* position: relative; może być wtedy $('#square').animate({ left: 100}) */
+    display: flex;
+    align-items: center;
+}
