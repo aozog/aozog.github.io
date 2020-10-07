@@ -1,0 +1,19 @@
+h1 {
+    color: grey;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.7em;
+    margin-top: 40px;
+}
+
+hr {
+    width: 350px;
+    border: 1px solid rgb(214, 212, 212);
+    border-bottom: 0;
+}
+
+.btn-link {
+    color: orange;
+    font-weight: 300;
+
+}
